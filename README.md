@@ -35,7 +35,7 @@ This project demonstrates a practical application of Generative Adversarial Netw
 **View Results:** The application processes the image and displays the enhanced super-resolution image alongside the original for comparison.
 
 ### Demo Video
-Watch the project demo [https://drive.google.com/file/d/1qI1MhRot8T3oZp0HOqQLVu-B8zTLuej7/view?usp=drive_link](https://drive.google.com/file/d/1qI1MhRot8T3oZp0HOqQLVu-B8zTLuej7/view?usp=drive_link).
+Watch the project [demo](https://drive.google.com/file/d/1qI1MhRot8T3oZp0HOqQLVu-B8zTLuej7/view?usp=drive_link).
 
 ### Contributing
 Contributions to the project are welcome. This can include adding new features, improving the model's efficiency, or enhancing the web interface. Please follow the standard GitHub fork and pull request workflow.
