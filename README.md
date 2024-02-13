@@ -31,6 +31,7 @@ This project demonstrates a practical application of Generative Adversarial Netw
 
 ### Usage
 **Select Image:** Via the web interface, users can select a low-resolution image they wish to enhance.
+
 **View Results:** The application processes the image and displays the enhanced super-resolution image alongside the original for comparison.
 
 ### Demo Video
